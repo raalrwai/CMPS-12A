@@ -1,0 +1,16 @@
+1. One error I found when using testfile1 is that if you repeat the first 
+digit on a different line the statements will contradict eachother.
+"the weather has been great, the weather has been ok"
+2. Using testfile2 I found a grammatical error that books in question 4
+becomes plural contradicting the word another used right before it.
+3. Using testfile3 I found a grammatical error in question 5 where no
+period appears at the end of the sentence.
+4. Using testfile, I found a grammatical errror when the statement prints
+out an impossible task by stating a future action will take place that
+is no longer possible, "I plan to come home for a visit last weekend".
+5. Using testfile 2 I noticed variable is used in the passed tense which is 
+incorrect and it should be the weahter has been varient
+6. Using testfile 4 I found any input value out of integers 1-2 for question
+1, cause an error message to print
+7. The same case for numbers 2-5, and input integer outside of 1-3 besides 
+question 4 cause an error message to print.

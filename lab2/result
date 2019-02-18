@@ -1,0 +1,21 @@
+/afs/cats.ucsc.edu/users/i/raalrwai/cs12a/lab2
+
+Access list for public is
+Normal rights:
+  system:anyuser l
+  raalrwai rlidwka
+
+Access list for private is
+Normal rights:
+  system:anyuser l
+  raalrwai rlidw
+
+total 8
+-rw-r--r--. 1 raalrwai users  426 Jan 19  2016 HelloWorld.class
+-rw-r--r--. 1 raalrwai users  264 Jan 19  2016 HelloWorld.java
+drwxr-xr-x. 2 raalrwai users 2048 Jan 19  2016 private
+-rwx-wx-wx. 1 raalrwai users  260 Jan 20  2016 prog
+drwxr-xr-x. 2 raalrwai users 2048 Jan 19  2016 public
+-rw-r--r--. 1 raalrwai users  207 Aug  4 13:03 result
+
+Hello, lab2!
